@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "5db3ac6680b185b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cee85d36fbd4ba84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3758e2b624d0b80c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08c3a9c7c8ce7a2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb87d0869c175586",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "390c77b2a45e4d78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53e5957618bdd99f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#学习",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efa58d7e2d0883f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "058eb344f38cd887",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "890fb487cc9a5cf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "590eb14d24bb0655",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "303d928c5f933408",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "雅思备考经验/备考经验2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "51c95bab2d447238",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "雅思备考经验/备考经验2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf780c2843ca6eed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ba9c9e73f1acdcdc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "雅思备考经验/备考经验2.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "3758e2b624d0b80c",
+  "lastOpenFiles": [
+    "雅思备考经验/备考经验2.md",
+    "雅思备考经验/备考经验1.md",
+    "Media Note - 雅思新手入门 _ 全题型介绍+备考技巧（口语8.5的技巧在最后）.md",
+    "其他教程/markdown语法教程.md",
+    "其他教程/obsidian使用教程.md",
+    "Media Note - 高盛预测中国房价还将下降40%，原重庆市长黄奇帆告诉你十大原因_中国_中国房地产_中国经济_中国社会_房地产_经济_金融_股市_黄奇帆_财经.md",
+    "Media Note - 可能是B站最详细的Obsidian Markdown使用保姆级教程.md",
+    "一些视频教程",
+    "Media Note - Markdown 文档基础语法（基于 IDEA_Typora 讲解最新版）4K蓝光画质 程序员必备技能 强烈推荐.md",
+    "其他教程/理论.md",
+    "Media Note - OB打开bili视频，并用时间戳做笔记——obsidian插件media.md",
+    "其他教程",
+    "附件库/咩咩.jpg",
+    "咩咩事",
+    "Pasted image 20240424123110.png",
+    "实验.canvas",
+    "雅思备考经验/B站 小狼团长.md",
+    "[04.md",
+    "EHS管理/EHS管理实践精华.md",
+    "EHS管理/HAZOP举例.png",
+    "附件库",
+    "新建文件夹",
+    "咩咩.jpg",
+    "面试准备/面试准备汇总.md",
+    "面试准备/专业问题.md",
+    "未命名.canvas",
+    "安全文化曲线.md",
+    "2024-04-24.md",
+    "雅思备考经验/实验2.md",
+    "啊啊.md",
+    "实验1.md",
+    "未命名.md",
+    "EHS管理/安全文化曲线.png",
+    "面试准备/EHS面试常见问题.md",
+    "面试准备/宁波博汇化工.md",
+    "雅思备考经验/未命名.canvas",
+    "雅思备考经验",
+    "面试准备/环安工程师面试.md",
+    "面试准备/宝洁八大问.md",
+    "面试准备/自我介绍.md",
+    "EHS管理",
+    "面试准备"
+  ]
+}
